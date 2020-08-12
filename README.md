@@ -7,7 +7,7 @@ authlib-injector: <https://littlesk.in/>
 ## ❌ Main Nodes
 **DNS balancing**: `play.xiao-jin.site`
 
-![status-img](https://mcstatus.glavo.site/status-img?addr=mc.xiaojin233.cn)
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.xiaojin233.cn/embed" width="728" height="90"></iframe>
 cn-zj-bgp-3: `mc.xiaojin233.cn`, `cn-zj-bgp-3.sakurafrp.com:10556`
 
 ![status-img](https://mcstatus.glavo.site/status-img?addr=mc-sq-bgp.xiaojin233.cn)
